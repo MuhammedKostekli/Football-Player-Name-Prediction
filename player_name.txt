@@ -1,0 +1,214 @@
+Beşiktaş	Adriano
+Beşiktaş	Alexander Milosevic
+Beşiktaş	Alexis
+Beşiktaş	Alvaro Negredo
+Beşiktaş	Andreas Beck
+Beşiktaş	Atiba Hutchinson
+Beşiktaş	Caner Erkin
+Beşiktaş	Cenk Tosun
+Beşiktaş	Cyle Larin
+Beşiktaş	Denys Boyko
+Beşiktaş	Devrim Taskaya
+Beşiktaş	Domagoj Vida
+Beşiktaş	Dorukhan Tokoz
+Beşiktaş	Dusko Tosic
+Beşiktaş	Enzo Roco
+Beşiktaş	Ersan Gulum
+Beşiktaş	Eslem Ozturk
+Beşiktaş	Fatih Aksoy
+Beşiktaş	Furkan Akbulut
+Beşiktaş	Gary Medel
+Beşiktaş	Gokhan Gonul
+Beşiktaş	Gokhan Tore
+Beşiktaş	Gunay Guvenc
+Beşiktaş	Guven Yalcin
+Beşiktaş	Hamza Kucukkoylu
+Beşiktaş	Ismail Koybasi
+Beşiktaş	Jeremain Lens
+Beşiktaş	Jose Sosa
+Beşiktaş	Kerim Frei
+Beşiktaş	Loris Karius
+Beşiktaş	Marcelo
+Beşiktaş	Mario Gomez
+Beşiktaş	Muhammed Durmus
+Beşiktaş	Mustafa Pektemek
+Beşiktaş	Necip Uysal
+Beşiktaş	Oguzhan Aydogan
+Beşiktaş	Oguzhan Ozyakup
+Beşiktaş	Olcay Sahan
+Beşiktaş	Pedro Franco
+Beşiktaş	Pepe
+Beşiktaş	Ramon Motta
+Beşiktaş	Rhodolfo
+Beşiktaş	Ricardo Quaresma
+Beşiktaş	Ryan Babel
+Beşiktaş	Serdar Kurtulus
+Beşiktaş	Serkan Yavuz
+Beşiktaş	Tolga Zengin
+Beşiktaş	Tolgay Arslan
+Beşiktaş	Utku Yuvakuran
+Beşiktaş	Vagner Love
+Beşiktaş	Veli Kavlak
+Fenerbahçe	Abdoulaye Ba
+Fenerbahçe	Alper Potuk
+Fenerbahçe	Andre Ayew
+Fenerbahçe	Baris Alici
+Fenerbahçe	Bruno Alves
+Fenerbahçe	Caner Erkin
+Fenerbahçe	Caner Koca
+Fenerbahçe	Diego
+Fenerbahçe	Diego Reyes
+Fenerbahçe	Egemen Zengin
+Fenerbahçe	Elif Elmas
+Fenerbahçe	Erten Ersu
+Fenerbahçe	Fabiano
+Fenerbahçe	Fernandao
+Fenerbahçe	Giuliano
+Fenerbahçe	Gokhan Gonul
+Fenerbahçe	Harun Tekin
+Fenerbahçe	Hasan Ali Kaldirim
+Fenerbahçe	Islam Slimani
+Fenerbahçe	Josef
+Fenerbahçe	Lazar Markovic
+Fenerbahçe	Mahmut Ertugal Taskiran
+Fenerbahçe	Martin Skrtel
+Fenerbahçe	Mathieu Valbuena
+Fenerbahçe	Mauricio Isla
+Fenerbahçe	Mehmet Ekici
+Fenerbahçe	Mehmet Topal
+Fenerbahçe	Mehmet Topuz
+Fenerbahçe	Melih Okutan
+Fenerbahçe	Michael Frey
+Fenerbahçe	Michal Kadlec
+Fenerbahçe	Miroslav Stoch
+Fenerbahçe	Moussa Sow
+Fenerbahçe	Nabil Dirar
+Fenerbahçe	Nani
+Fenerbahçe	Ozan Tufan
+Fenerbahçe	Ramazan Cevik
+Fenerbahçe	Raul Meireles
+Fenerbahçe	Roberto Soldado
+Fenerbahçe	Robin van Persie
+Fenerbahçe	Roman Neustadter
+Fenerbahçe	Samed Karakoc
+Fenerbahçe	Savas Polat
+Fenerbahçe	Semih Ergul
+Fenerbahçe	Sener Ozbayrakli
+Fenerbahçe	Simon Kjaer
+Fenerbahçe	Souza
+Fenerbahçe	Uygar Zeybek
+Fenerbahçe	Volkan Demirel
+Fenerbahçe	Volkan Sen
+Fenerbahçe	Yasir Subasi
+Fenerbahçe	Yigithan Guveli
+Galatasaray	Ahmet Calik
+Galatasaray	Aurelien Chedjou
+Galatasaray	Badou Ndiaye
+Galatasaray	Bafetimbi Gomis
+Galatasaray	Bilal Kisa
+Galatasaray	Burak Yilmaz
+Galatasaray	Cenk Gonen
+Galatasaray	Emre Akbaba
+Galatasaray	Emre Colak
+Galatasaray	Eren Derdiyok
+Galatasaray	Fernando
+Galatasaray	Fernando Muslera
+Galatasaray	Garry Rodrigues
+Galatasaray	Hakan Balta
+Galatasaray	Henry Onyekuru
+Galatasaray	Jason Denayer
+Galatasaray	Jem Karacan
+Galatasaray	Jose Rodriguez
+Galatasaray	Koray Gunter
+Galatasaray	Lionel Carole
+Galatasaray	Lukas Podolski
+Galatasaray	Maicon
+Galatasaray	Mariano
+Galatasaray	Martin Linnes
+Galatasaray	Mugdat Celik
+Galatasaray	Olcan Adin
+Galatasaray	Ozan Kabak
+Galatasaray	Ryan Donk
+Galatasaray	Sabri Sarioglu
+Galatasaray	Selcuk Inan
+Galatasaray	Semih Kaya
+Galatasaray	Serdar Aziz
+Galatasaray	Sinan Gumus
+Galatasaray	Sofiane Feghouli
+Galatasaray	Tarik Camdal
+Galatasaray	Umut Bulut
+Galatasaray	Volkan Pala
+Galatasaray	Wesley Sneijder
+Galatasaray	Yasin Oztekin
+Galatasaray	Younes Belhanda
+Galatasaray	Yunus Akgun
+Galatasaray	Yuto Nagatomo
+Trabzon	Abdulkadir Parmak
+Trabzon	Ali Kucik
+Trabzon	Aytac Ak
+Trabzon	Batuhan Artarslan
+Trabzon	Emrullah Kokoc
+Trabzon	Erhan Kara
+Trabzon	Ferhat Yazgan
+Trabzon	Hamza Gur
+Trabzon	Ibrahim Demir
+Trabzon	Kaan Gudu
+Trabzon	Mehmet Kuruoglu
+Trabzon	Oktay Demircan
+Trabzon	Omer Tunc
+Trabzon	Serge Akakpo
+Trabzon	Serge Nyuiadzi
+Trabzon	Ugur Ozturk
+Trabzon	Ugurcan Cakir
+Trabzon	Yaser Hacimustafaoglu
+Trabzon	Yoann Arquin
+Trabzon	Yuksel Sisman
+Trabzon	Ziya Alkurt
+Trabzonspor	Abdulkadir Omur
+Trabzonspor	Abdulkadir Parmak
+Trabzonspor	Alper Uludag
+Trabzonspor	Anthony Nnaduzor Nwakaeme
+Trabzonspor	Aykut Demir
+Trabzonspor	Aytac Kara
+Trabzonspor	Batuhan Artarslan
+Trabzonspor	Burak Yilmaz
+Trabzonspor	Caleb Ekuban
+Trabzonspor	Dame N'Doye
+Trabzonspor	Deniz Yilmaz
+Trabzonspor	Douglas
+Trabzonspor	Erkan Zengin
+Trabzonspor	Esteban
+Trabzonspor	Fatih Atik
+Trabzonspor	Filip Novak
+Trabzonspor	Guray Vural
+Trabzonspor	Hugo Rodallega
+Trabzonspor	Huseyin Turkmen
+Trabzonspor	Joao Pereira
+Trabzonspor	Jose Sosa
+Trabzonspor	Juraj Kucka
+Trabzonspor	Luis Cavanda
+Trabzonspor	Luis Ibanez
+Trabzonspor	Majid Hosseini
+Trabzonspor	Marko Marin
+Trabzonspor	Mehmet Ekici
+Trabzonspor	Mehmet Kuruoglu
+Trabzonspor	Muhammet Besir
+Trabzonspor	Muhammet Demir
+Trabzonspor	Musa Nizam
+Trabzonspor	Mustafa Akbas
+Trabzonspor	Mustafa Yumlu
+Trabzonspor	Ogenyi Onazi
+Trabzonspor	Okay Yokuslu
+Trabzonspor	Olcay Sahan
+Trabzonspor	Onur Kivrak
+Trabzonspor	Oscar Cardozo
+Trabzonspor	Ozer Hurmaci
+Trabzonspor	Ramazan Ovuc
+Trabzonspor	Salih Dursun
+Trabzonspor	Sefa Yilmaz
+Trabzonspor	Soner Aydogdu
+Trabzonspor	Ugurcan Cakir
+Trabzonspor	Vahid Amiri
+Trabzonspor	Yusuf Erdogan
+Trabzonspor	Yusuf Yazici
+Trabzonspor	Zargo Toure
