@@ -21,10 +21,8 @@ def main():
 
     # Load dataset with given txt file
     X = load_dataset(txt_name="player_name.txt")
-    transition_matrix = MarkovChain(dataset=X)
-    
-
-
+    markov_object = MarkovChain(dataset=X)
+    markov_object.markov_chain_process()
     
 if __name__ == "__main__":
     main()
